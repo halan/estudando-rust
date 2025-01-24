@@ -2,7 +2,7 @@
 Grupo de Estudos de Rust em Português
 
 
-Próximo Encontro: https://meet.google.com/tti-enef-aqp
+Próximo Encontro: Domingio dia 26/01 as 9:30. https://meet.google.com/tti-enef-aqp
 
 # Pre requisitos
 
