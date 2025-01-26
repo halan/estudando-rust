@@ -11,3 +11,4 @@
 - Traits (https://doc.rust-lang.org/book/ch10-02-traits.html)
 - Box (https://doc.rust-lang.org/book/ch15-01-box.html)
 - Trait Objects (https://doc.rust-lang.org/book/ch17-02-trait-objects.html)
+- Lifetime (https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html e https://chatgpt.com/share/67964cdb-f428-800b-9ca1-d6b97c7d74a9)
